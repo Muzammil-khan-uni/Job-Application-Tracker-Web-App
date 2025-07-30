@@ -1,6 +1,6 @@
 # Job Application Tracker Web App
 
-🔗 Check live demo at: https://job-application-tracker-web-app-go9j-moekyij68.vercel.app/
+🔗 Check live demo at: https://job-application-tracker-web-qp05yumxk.vercel.app/
 
 JobTracker is a responsive and intuitive web application built to help users track and manage their job applications. It allows job seekers to record, monitor, and update the progress of their applications in a centralized dashboard with clean UI and smooth user experience.
 
